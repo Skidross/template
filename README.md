@@ -1,5 +1,5 @@
 # template
 
-Просто вёрстка 1 страницы сайта
+Просто вёрстка одностраничного сайта
 
 View demo https://skidross.github.io/template/
