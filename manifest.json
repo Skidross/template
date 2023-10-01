@@ -1,0 +1,15 @@
+{
+  "start_url": "/index.html",
+  "theme_color": "#317EFB",
+  "serviceworker": {
+    "src": "/index.html"
+  },
+  "icons": [
+    {
+      "src": "/img/logo-icon.svg",
+      "sizes": "196x196",
+      "type": "image/svg",
+      "purpose": "any maskable"
+    }
+  ]
+}
